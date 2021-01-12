@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/icon-512x512.png" width="200" alt="Web Toolbox" />
+  <img src="public/icon-512x512.pn" width="200" alt="Web Toolbox" />
   <div>Code author: <a href="mailto:amwebexpert@gmail.com">amwebexpert@gmail.com</a></div>
   <div>Icon made by: <a href="https://therealjerrylow.com/">Jerry Low</a></div>
 </div>
@@ -20,10 +20,10 @@
 Some screen captures of the implemented features...
 
 <div align="center">
-  <img src="public/screen-captures/JSONFormatter-demo.gif" />
-  <img src="public/screen-captures/ImageEncoder-demo.gif" />
-  <img src="public/screen-captures/RegexTester-demo.gif" />
-  <img src="public/screen-captures/ImageOCR-demo.gif" />
+  <img src="public/screen-captures/JSONFormatter-demo.gi" />
+  <img src="public/screen-captures/ImageEncoder-demo.gi" />
+  <img src="public/screen-captures/RegexTester-demo.gi" />
+  <img src="public/screen-captures/ImageOCR-demo.gi" />
 </div>
 
 ## Online demo
